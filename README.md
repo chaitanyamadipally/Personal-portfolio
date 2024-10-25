@@ -7,8 +7,6 @@ Welcome to my personal portfolio website repository! This project showcases my p
 - [Technologies Used](#technologies-used)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contact](#contact)
 
 ## About the Project
 This portfolio website is designed to give potential employers and collaborators a quick overview of my work and skills. The site includes:
