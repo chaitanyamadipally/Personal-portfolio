@@ -30,3 +30,6 @@ This portfolio website is designed to give potential employers and collaborators
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/your-portfolio-repo.git
+
+
+Thank You for visiting my Portfolio
